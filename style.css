@@ -50,6 +50,18 @@ body {
     border-radius: 8px;
 }
 
+.ingredients-list, .instructions-list {
+    padding-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.ingredients-list li, .instructions-list li {
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+
 p {
     font-size: 16px;
     line-height: 1.6;
